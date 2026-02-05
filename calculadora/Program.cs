@@ -6,7 +6,7 @@ namespace CalculadoraSimple
     {
         static void Main(string[] args)
         {
-            // Declaramos las variables (Cajitas para números)
+            // Declaramos las variables 
             // Usamos 'double' en lugar de 'int' para poder usar decimales (ej: 5.5)
             double numero1 = 0;
             double numero2 = 0;
